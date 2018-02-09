@@ -1,0 +1,19 @@
+{
+  "name": "x-timestamp-bson",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BSON Timestamp without mongodb driver or bson module.",
+  "author": {
+    "name": "Jose Antonio Sanchez",
+    "email": "jasancheg@gmail.com"
+  },
+  "main": "timestamp.js",
+  "scripts": {
+    "build": "make build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jasancheg/x-timestamp-bson.git"
+  },
+  "license": "Apache-2.0"
+}
